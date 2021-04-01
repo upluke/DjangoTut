@@ -25,7 +25,7 @@ SECRET_KEY = '_8o8g(htlb*v0n7#xz2)m&j$$vrgg3ass$clil3(^-%f3wx8#y'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['dd7c653214cc45b2a65dade9ccc05d15.vfs.cloud9.us-east-2.amazonaws.com']
 
 
 # Application definition
